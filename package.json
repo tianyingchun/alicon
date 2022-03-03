@@ -1,0 +1,25 @@
+{
+  "name": "alicon",
+  "version": "1.0.0",
+  "description": "aliicon includes 32*32 png",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyingchun/alicon.git"
+  },
+  "keywords": [
+    "ali",
+    "icon",
+    "png",
+    "icon"
+  ],
+  "author": "tianyingchun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianyingchun/alicon/issues"
+  },
+  "homepage": "https://github.com/tianyingchun/alicon#readme"
+}
