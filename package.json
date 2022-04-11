@@ -1,6 +1,6 @@
 {
   "name": "antdicon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "antdicon includes 32*32 png",
   "main": "index.js",
   "scripts": {
